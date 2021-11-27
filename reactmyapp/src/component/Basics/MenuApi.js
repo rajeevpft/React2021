@@ -4,7 +4,7 @@ const Menu = [{
     name : "Veg",
     category: "Breakfast",
     price :"$12",
-    Description:"Morning  healthy Breakfast"
+    Description:"yummy Morning  healthy Breakfast"
 
 },
 {
